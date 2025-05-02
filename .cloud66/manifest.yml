@@ -1,3 +1,4 @@
 rails:
-  activeprotect:
-    http_ban_rate: 10
+  configuration:
+    activeprotect:
+      http_ban_rate: 10
