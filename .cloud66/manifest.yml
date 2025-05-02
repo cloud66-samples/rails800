@@ -1,0 +1,3 @@
+rails:
+  activeprotect:
+    http_ban_rate: 10
